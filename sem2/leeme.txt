@@ -1,0 +1,34 @@
+Eliminacion de archivos 
+-----------------------
+rmdir
+rm -r
+
+Edicion de archivos 
+--------------------
+nano
+
+Manipulacion de archivos 
+------------------------
+mv
+cp 
+
+Otros
+-----
+python
+winpty python
+exit()
+q
+
+Agregar a github
+-------------------
+git add nombre_delarchivo.py 
+
+git add --all 
+
+git status /-- ver los archivos subidos
+
+git commit -m "Agregar segunda_semana"
+
+
+
+
